@@ -242,12 +242,19 @@ public class MainAbstraction {
 ```
 ---
 
+<<<<<<< HEAD
 ## Hasil Eksekusi 
 ![Hasil Abstraction-Interface](./screenshots/HasilAbstraction.png)
+=======
+## Hasil Eksekusi
+Sertakan screenshot hasil eksekusi program.  
+![Screenshot hasil](screenshots/hasil.png)
+>>>>>>> 634cf47bb1be760e4e426e27d8d8069a3f284df5
 
 ---
 
 ## Analisis
+<<<<<<< HEAD
 1. Jelaskan bagaimana kode berjalan.
     Jawaban: Program dimulai dari MainAbstraction.java dengan membuat objek Cash dan EWallet menggunakan referensi abstract class Pembayaran.
     Saat method cetakStruk() dipanggil, Java menjalankan implementasi sesuai objek aslinya (Cash atau EWallet).
@@ -268,6 +275,11 @@ public class MainAbstraction {
         Menggunakan prinsip:
             abstract class untuk shared state & behavior,
             interface untuk kontrak atau kemampuan tambahan.
+=======
+- Jelaskan bagaimana kode berjalan.  
+- Apa perbedaan pendekatan minggu ini dibanding minggu sebelumnya.  
+- Kendala yang dihadapi dan cara mengatasinya.  
+>>>>>>> 634cf47bb1be760e4e426e27d8d8069a3f284df5
 
 ---
 
