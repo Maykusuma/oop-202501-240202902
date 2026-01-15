@@ -1,6 +1,8 @@
 {
     "java.project.sourcePaths": [
+        "praktikum/week7-koleksi-keranjang/src/main/java/com/upb/agripos",
+        "praktikum/week5-abstraction-interface/src/main/java/com/upb/agripos",
         "praktikum/week4-polymorphism/src/main/java/com/upb/agripos",
-        "praktikum/week5-abstraction-interface/src/main/java/com/upb/agripos"
+        "praktikum/week9-exception-handling/src/main/java/com/upb/agripos"
     ]
 }

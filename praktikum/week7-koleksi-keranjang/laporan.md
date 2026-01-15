@@ -1,25 +1,40 @@
-# Laporan Praktikum Minggu 1 (sesuaikan minggu ke berapa?)
-Topik: [Tuliskan judul topik, misalnya "Class dan Object"]
+# Laporan Praktikum Minggu 7
+Topik: ["Collections dan Implementasi Keranjang Belanja"]
 
 ## Identitas
-- Nama  : [Nama Mahasiswa]
-- NIM   : [NIM Mahasiswa]
-- Kelas : [Kelas]
+- Nama  : [Mayang Nur Annisa Kusuma]
+- NIM   : [240202902]
+- Kelas : [3IKRB]
 
 ---
 
 ## Tujuan
-(Tuliskan tujuan praktikum minggu ini.  
-Contoh: *Mahasiswa memahami konsep class dan object serta dapat membuat class Produk dengan enkapsulasi.*)
+1. Menjelaskan konsep collection dalam Java (List, Map, Set).
+2. Menggunakan ArrayList untuk menyimpan dan mengelola objek.
+3. Mengimplementasikan Map atau Set sesuai kebutuhan pengelolaan data.
+4. Melakukan operasi dasar pada collection: tambah, hapus, dan hitung total.
+5. Menganalisis efisiensi penggunaan collection dalam konteks sistem Agri-POS.
 
 ---
 
 ## Dasar Teori
-(Tuliskan ringkasan teori singkat (3–5 poin) yang mendasari praktikum.  
-Contoh:  
-1. Class adalah blueprint dari objek.  
-2. Object adalah instansiasi dari class.  
-3. Enkapsulasi digunakan untuk menyembunyikan data.)
+Collections Framework
+Java Collections Framework menyediakan struktur data untuk mengelola objek secara dinamis dan efisien.
+
+Struktur utama:
+
+List (implementasi: ArrayList) — Terurut, dapat menyimpan elemen duplikat.
+Map (implementasi: HashMap) — Menyimpan pasangan key–value, akses cepat berdasarkan key.
+Set (implementasi: HashSet) — Tidak menerima duplikat dan tidak mempertahankan urutan.
+2. Studi Kasus: Keranjang Belanja Agri-POS
+Keranjang belanja harus dapat:
+
+Menambahkan produk
+Menghapus produk
+Menampilkan isi keranjang
+Menghitung total nilai transaksi
+Menangani jumlah (quantity) menggunakan Map
+Kasus ini mencerminkan penggunaan struktur data dalam aplikasi nyata seperti POS.
 
 ---
 
@@ -63,11 +78,7 @@ Contoh: *Dengan menggunakan class dan object, program menjadi lebih terstruktur 
 ---
 
 ## Quiz
-(1. [Tuliskan kembali pertanyaan 1 dari panduan]  
-   **Jawaban:** …  
-
-2. [Tuliskan kembali pertanyaan 2 dari panduan]  
-   **Jawaban:** …  
-
-3. [Tuliskan kembali pertanyaan 3 dari panduan]  
-   **Jawaban:** …  )
+Jelaskan perbedaan mendasar antara List, Map, dan Set.
+Mengapa ArrayList cocok digunakan untuk keranjang belanja sederhana?
+Bagaimana struktur Set mencegah duplikasi data?
+Kapan sebaiknya menggunakan Map dibandingkan List? Jelaskan dengan contoh.

@@ -1,16 +1,18 @@
-# Laporan Praktikum Minggu 1 (sesuaikan minggu ke berapa?)
-Topik: [Tuliskan judul topik, misalnya "Class dan Object"]
+# Laporan Praktikum Minggu 10
+Topik: ["Data Access Object (DAO) dan CRUD Database dengan JDBC"]
 
 ## Identitas
-- Nama  : [Nama Mahasiswa]
-- NIM   : [NIM Mahasiswa]
-- Kelas : [Kelas]
+- Nama  : [Mayang Nur Annisa Kusuma]
+- NIM   : [240202902]
+- Kelas : [3IKRB]
 
 ---
 
 ## Tujuan
-(Tuliskan tujuan praktikum minggu ini.  
-Contoh: *Mahasiswa memahami konsep class dan object serta dapat membuat class Produk dengan enkapsulasi.*)
+1. Menjelaskan konsep Data Access Object (DAO) dalam pengembangan aplikasi OOP.
+2. Menghubungkan aplikasi Java dengan basis data menggunakan JDBC.
+3. Mengimplementasikan operasi CRUD (Create, Read, Update, Delete) secara lengkap.
+4. Mengintegrasikan DAO dengan class aplikasi OOP sesuai prinsip desain yang baik.
 
 ---
 
