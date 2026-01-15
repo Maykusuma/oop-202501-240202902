@@ -67,17 +67,16 @@ System.out.println(p1.getNama());
 ---
 
 ## Hasil Eksekusi
-(Sertakan screenshot hasil eksekusi program.  
+Sertakan screenshot hasil eksekusi program.  
 ![Screenshot hasil](screenshots/hasil.png)
-)
+
 ---
 
 ## Analisis
-(
 - Jelaskan bagaimana kode berjalan.  
 - Apa perbedaan pendekatan minggu ini dibanding minggu sebelumnya.  
 - Kendala yang dihadapi dan cara mengatasinya.  
-)
+
 ---
 
 ## Kesimpulan
